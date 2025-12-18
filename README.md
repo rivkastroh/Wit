@@ -1,4 +1,4 @@
-wit – Version Control System Using Click
+Wit – Version Control System Using Click
 
 A simple version control system called wit, similar to Git.
 The system allows users to manage file versions, add files for tracking, make commits, and view version history.
